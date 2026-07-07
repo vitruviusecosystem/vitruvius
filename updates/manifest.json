@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "0.3.1",
+  "minimumVersion": "0.1.0",
+  "channel": "beta",
+  "releaseDate": "2026-07-07",
+  "downloadUrl": "https://github.com/vitruviusecosystem/vitruvius/releases/download/v0.3.1/Vitruvius-Setup-0.3.1.exe",
+  "releaseNotesUrl": "https://github.com/vitruviusecosystem/vitruvius/releases/tag/v0.3.1"
+}
