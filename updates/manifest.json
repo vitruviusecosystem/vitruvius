@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "0.5.1",
+  "latestVersion": "0.5.2",
   "minimumVersion": "0.1.0",
   "channel": "beta",
-  "releaseDate": "2026-10-31",
+  "releaseDate": "2026-11-03",
   "downloadUrl": "https://vitruviusecosystem.com/download",
-  "downloadSha256": "09d95930b575785449a89136531a6693470e7b5ef998f292a578d74af518d031",
-  "downloadBytes": 18214600,
-  "releaseNotesUrl": "https://github.com/vitruviusecosystem/vitruvius/releases/tag/v0.5.1"
+  "downloadSha256": "c21f378131aa6ef3d4ffb315e1cf1ed5e7f7081e96a42b8c3291eff505363bd7",
+  "downloadBytes": 18428776,
+  "releaseNotesUrl": "https://github.com/vitruviusecosystem/vitruvius/releases/tag/v0.5.2"
 }
